@@ -14,4 +14,4 @@ $ npm run electron-dev
 ## 编译
 
 ```bash
-$npm run electron-build
+$ npm run electron-build
