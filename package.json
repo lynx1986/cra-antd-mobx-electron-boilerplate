@@ -16,7 +16,7 @@
   "main": "main.js",
   "homepage": ".",
   "scripts": {
-    "electron-start": "electron . --env dev",
+    "electron-dev": "electron . --env dev",
     "electron-build": "npm run build && electron . --env build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
