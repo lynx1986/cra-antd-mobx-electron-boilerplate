@@ -8,7 +8,8 @@ $ npm install
 ## 开发
 
 ```bash
-$ npm run electron-dev
+$ npm start              // 终端1
+$ npm run electron-dev   // 终端2
 ```
 
 ## 编译
